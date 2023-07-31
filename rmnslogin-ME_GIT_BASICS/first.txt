@@ -1,0 +1,9 @@
+I'm teying to learn GIT.
+This to check use case of git status.
+
+we can do
+    1. "git add ." --> to add all the file  that I had changed in the current folder.
+    2. can use "git add first.txt" to add this file only from the current folder.
+
+Now successfully commited.
+Trying to know what will happen when I will make a change in the same file.
